@@ -1,0 +1,1 @@
+/Users/cole/.../config/nvim/plugins.vim

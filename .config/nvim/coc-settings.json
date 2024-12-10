@@ -1,0 +1,10 @@
+{
+	 "diagnostic.virtualText": true,
+	 "diagnostic.virtualTextCurrentLineOnly": true,
+	 "diagnostic.virtualTextPrefix": ">>> ",
+	 "suggest.virtualText": true,
+	 "links.tooltip": true,
+	 "diagnostic.enableHighlightLineNumber": true,
+	 "codeLens.enable": true,
+	 "coc.preferences.enableMarkdown": true
+}
